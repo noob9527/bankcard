@@ -1,0 +1,35 @@
+[
+  {
+    "name": "amexbelgiumcorporate",
+    "country": "be",
+    "localTitle": "American Express",
+    "engTitle": "American Express",
+    "url": "https://network.americanexpress.com/be/fr/homepage/landing.aspx",
+    "color": "#67b198",
+    "prefixes": [
+      374190
+    ]
+  },
+  {
+    "name": "belfius",
+    "country": "be",
+    "localTitle": "Belfius Bank",
+    "engTitle": "Belfius Bank",
+    "url": "https://www.belfius.be",
+    "color": "#325c6c",
+    "prefixes": [
+      670305
+    ]
+  },
+  {
+    "name": "ingbelgium",
+    "country": "be",
+    "localTitle": "ING Belgium",
+    "engTitle": "ING Belgium",
+    "url": "https://www.ing.be/",
+    "color": "#ff6600",
+    "prefixes": [
+      42360
+    ]
+  }
+]

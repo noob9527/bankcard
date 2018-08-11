@@ -1,0 +1,70 @@
+[
+  {
+    "name": "boursorama",
+    "country": "fr",
+    "localTitle": "Boursorama",
+    "engTitle": "Boursorama",
+    "url": "http://www.boursorama.com/",
+    "color": "#d20073",
+    "prefixes": [
+      497958
+    ]
+  },
+  {
+    "name": "caisseepargne",
+    "country": "fr",
+    "localTitle": "Caisse d'Épargne",
+    "engTitle": "Caisse d'Épargne",
+    "url": "https://www.caisse-epargne.fr/",
+    "color": "#e2001a",
+    "prefixes": [
+      497874
+    ]
+  },
+  {
+    "name": "creditmutuel",
+    "country": "fr",
+    "localTitle": "Credit Mutuel",
+    "engTitle": "Credit Mutuel",
+    "url": "https://www.creditmutuel.com/",
+    "color": "#11519b",
+    "prefixes": [
+      513616,
+      513742
+    ]
+  },
+  {
+    "name": "ingdirect",
+    "country": "fr",
+    "localTitle": "ING Direct",
+    "engTitle": "ING Direct",
+    "url": "http://www.ingdirect.fr/",
+    "color": "#ff6600",
+    "prefixes": [
+      513625
+    ]
+  },
+  {
+    "name": "lcl",
+    "country": "fr",
+    "localTitle": "LCL",
+    "engTitle": "LCL",
+    "url": "https://particuliers.secure.lcl.fr/",
+    "color": "#263f92",
+    "prefixes": [
+      497203
+    ]
+  },
+  {
+    "name": "societe-generale",
+    "country": "fr",
+    "localTitle": "Société Générale",
+    "engTitle": "Societe Generale",
+    "url": "http://societegenerale.fr/",
+    "color": "#e5022f",
+    "prefixes": [
+      49735,
+      497355
+    ]
+  }
+]

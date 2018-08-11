@@ -1,0 +1,11 @@
+{
+  "name": "googlewallet",
+  "country": "us",
+  "localTitle": "Google Wallet",
+  "engTitle": "Google Wallet",
+  "url": "https://wallet.google.com/",
+  "color": "#4285f4",
+  "prefixes": [
+    524825
+  ]
+}

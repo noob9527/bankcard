@@ -1,0 +1,319 @@
+[
+  {
+    "name": "ansar",
+    "country": "ir",
+    "localTitle": "بانک انصار",
+    "engTitle": "Ansar Bank",
+    "url": "http://ansarbank.com/",
+    "color": "#b80710",
+    "prefixes": [
+      627381
+    ]
+  },
+  {
+    "name": "central",
+    "country": "ir",
+    "localTitle": "بانک مرکزی جمهوری اسلامی ایران",
+    "engTitle": "Central Bank of the Islamic Republic of Iran",
+    "url": "http://www.cbi.ir/",
+    "color": "#22304d",
+    "prefixes": [
+      636795
+    ]
+  },
+  {
+    "name": "day",
+    "country": "ir",
+    "localTitle": "بانک دی",
+    "engTitle": "Day Bank",
+    "url": "http://bank-day.org/",
+    "color": "#008b9a",
+    "prefixes": [
+      502938
+    ]
+  },
+  {
+    "name": "eghtesadnovin",
+    "country": "ir",
+    "localTitle": "بانک اقتصاد نوین",
+    "engTitle": "Eghtesad Novin Bank",
+    "url": "http://www.enbank.ir/",
+    "color": "#b42728",
+    "prefixes": [
+      627412,
+      627884,
+      639194
+    ]
+  },
+  {
+    "name": "exportdevelopment",
+    "country": "ir",
+    "localTitle": "بانک توسعه صادرات",
+    "engTitle": "Export Development Bank",
+    "url": "https://www.edbi.ir/",
+    "color": "#006000",
+    "prefixes": [
+      207177,
+      627648
+    ]
+  },
+  {
+    "name": "ghavamin",
+    "country": "ir",
+    "localTitle": "بانک قوامین",
+    "engTitle": "Ghavamin Bank",
+    "url": "http://www.ghbi.ir/",
+    "color": "#00a652",
+    "prefixes": [
+      639599
+    ]
+  },
+  {
+    "name": "hekmatiranian",
+    "country": "ir",
+    "localTitle": "بانک حکمت ایرانیان",
+    "engTitle": "Hekmat Iranian Bank",
+    "url": "http://www.hibank24.ir/",
+    "color": "#1d538d",
+    "prefixes": [
+      636949
+    ]
+  },
+  {
+    "name": "industryandmine",
+    "country": "ir",
+    "localTitle": "بانک صنعت و معدن",
+    "engTitle": "Bank of Industry and Mine",
+    "url": "http://www.bim.ir/",
+    "color": "#e7c07d",
+    "prefixes": [
+      627961
+    ]
+  },
+  {
+    "name": "iranzamin",
+    "country": "ir",
+    "localTitle": "بانک ایران زمین",
+    "engTitle": "Iran Zamin Bank",
+    "url": "http://www.izbank.ir/",
+    "color": "#4c2a94",
+    "prefixes": [
+      505785
+    ]
+  },
+  {
+    "name": "karafarin",
+    "country": "ir",
+    "localTitle": "بانک کارآفرین",
+    "engTitle": "Karafarin Bank",
+    "url": "http://www.karafarinbank.ir/",
+    "color": "#1f764c",
+    "prefixes": [
+      502910,
+      627488
+    ]
+  },
+  {
+    "name": "keshavarzi",
+    "country": "ir",
+    "localTitle": "بانک کشاورزی",
+    "engTitle": "Keshavarzi Bank",
+    "url": "http://www.bki.ir/",
+    "color": "#005902",
+    "prefixes": [
+      603770,
+      639217
+    ]
+  },
+  {
+    "name": "maskan",
+    "country": "ir",
+    "localTitle": "بانک مسکن",
+    "engTitle": "Maskan Bank",
+    "url": "http://bank-maskan.ir/",
+    "color": "#e84b0a",
+    "prefixes": [
+      628023
+    ]
+  },
+  {
+    "name": "mellat",
+    "country": "ir",
+    "localTitle": "بانک ملت",
+    "engTitle": "Mellat Bank",
+    "url": "http://www.bankmellat.ir/",
+    "color": "#d81736",
+    "prefixes": [
+      610433,
+      991975
+    ]
+  },
+  {
+    "name": "melli",
+    "country": "ir",
+    "localTitle": "بانک ملی ایران",
+    "engTitle": "Melli Bank",
+    "url": "http://bmi.ir/",
+    "color": "#dc3c00",
+    "prefixes": [
+      603799
+    ]
+  },
+  {
+    "name": "parsian",
+    "country": "ir",
+    "localTitle": "بانک پارسیان",
+    "engTitle": "Parsian Bank",
+    "url": "http://www.parsian-bank.ir/",
+    "color": "#ffc41e",
+    "prefixes": [
+      622106
+    ]
+  },
+  {
+    "name": "pasargad",
+    "country": "ir",
+    "localTitle": "بانک پاسارگاد",
+    "engTitle": "Pasargad Bank",
+    "url": "http://bpi.ir/",
+    "color": "#ffc41e",
+    "prefixes": [
+      502229,
+      639347
+    ]
+  },
+  {
+    "name": "post",
+    "country": "ir",
+    "localTitle": "پست بانک",
+    "engTitle": "Post Bank",
+    "url": "https://ib.postbank.ir/",
+    "color": "#006600",
+    "prefixes": [
+      627760
+    ]
+  },
+  {
+    "name": "qarzolqasanehmehriran",
+    "country": "ir",
+    "localTitle": "بانک قرض‌الحسنه مهر ایرانیان",
+    "engTitle": "Qarzol-Hasaneh Mehr Iran Bank",
+    "url": "http://www.qmb.ir/",
+    "color": "#009738",
+    "prefixes": [
+      606373
+    ]
+  },
+  {
+    "name": "refah",
+    "country": "ir",
+    "localTitle": "بانک رفاه",
+    "engTitle": "Refah Bank",
+    "url": "http://www.rb24.ir/",
+    "color": "#004b84",
+    "prefixes": [
+      589463
+    ]
+  },
+  {
+    "name": "saderat",
+    "country": "ir",
+    "localTitle": "بانک صادرات",
+    "engTitle": "Saderat Bank",
+    "url": "http://bsi.ir/",
+    "color": "#005da2",
+    "prefixes": [
+      603769
+    ]
+  },
+  {
+    "name": "saman",
+    "country": "ir",
+    "localTitle": "بانک سامان",
+    "engTitle": "Saman Bank",
+    "url": "https://www.sb24.com/",
+    "color": "#009ddc",
+    "prefixes": [
+      621986
+    ]
+  },
+  {
+    "name": "sarmayeh",
+    "country": "ir",
+    "localTitle": "بانک سرمایه",
+    "engTitle": "Sarmayeh Bank",
+    "url": "http://www.sbank.ir/",
+    "color": "#000064",
+    "prefixes": [
+      639607
+    ]
+  },
+  {
+    "name": "sepah",
+    "country": "ir",
+    "localTitle": "بانک سپه",
+    "engTitle": "Sepah Bank",
+    "url": "https://www.ebanksepah.ir/",
+    "color": "#e67a00",
+    "prefixes": [
+      589210
+    ]
+  },
+  {
+    "name": "shahr",
+    "country": "ir",
+    "localTitle": "بانک شهر",
+    "engTitle": "Shahr Bank",
+    "url": "http://shahr-bank.ir/",
+    "color": "#ed1b24",
+    "prefixes": [
+      502806,
+      504706
+    ]
+  },
+  {
+    "name": "sina",
+    "country": "ir",
+    "localTitle": "بانک سینا",
+    "engTitle": "Sina Bank",
+    "url": "http://www.sinabank.ir/",
+    "color": "#07519a",
+    "prefixes": [
+      639346
+    ]
+  },
+  {
+    "name": "tejarat",
+    "country": "ir",
+    "localTitle": "بانک تجارت",
+    "engTitle": "Tejarat Bank",
+    "url": "http://www.tejaratbank.ir/",
+    "color": "#2f4a98",
+    "prefixes": [
+      585983,
+      627353
+    ]
+  },
+  {
+    "name": "toseetaavon",
+    "country": "ir",
+    "localTitle": "بانک توسعه تعاون",
+    "engTitle": "Tose'e Ta'avon Bank",
+    "url": "https://www.ttbank.ir/",
+    "color": "#50b5d1",
+    "prefixes": [
+      502908
+    ]
+  },
+  {
+    "name": "tourism",
+    "country": "ir",
+    "localTitle": "بانک گردشگری",
+    "engTitle": "Tourism Bank",
+    "url": "http://www.tourismbank.ir/",
+    "color": "#b11116",
+    "prefixes": [
+      505416
+    ]
+  }
+]

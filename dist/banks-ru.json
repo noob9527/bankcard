@@ -1,0 +1,433 @@
+[
+  {
+    "name": "akbarsbank",
+    "country": "ru",
+    "localTitle": "Ак Барс Банк",
+    "engTitle": "Ak Bars Bank",
+    "url": "https://www.akbars.ru/",
+    "color": "#019d3c",
+    "prefixes": [
+      424436,
+      424438,
+      424439,
+      424440,
+      424447,
+      520935,
+      520985,
+      552958
+    ]
+  },
+  {
+    "name": "alfabank",
+    "country": "ru",
+    "localTitle": "Альфа-Банк",
+    "engTitle": "Alfa-Bank",
+    "url": "https://alfabank.ru/",
+    "color": "#f22f17",
+    "prefixes": [
+      408396,
+      408397,
+      415428,
+      415429,
+      415481,
+      415482,
+      426101,
+      426113,
+      428905,
+      428906,
+      45841,
+      477964,
+      479004,
+      479087,
+      510126,
+      519778,
+      521178,
+      548601,
+      548655,
+      548673,
+      548674,
+      552175,
+      552186,
+      555933,
+      555947,
+      555949,
+      555957,
+      676371
+    ]
+  },
+  {
+    "name": "avangard",
+    "country": "ru",
+    "localTitle": "Авангард",
+    "engTitle": "Avangard",
+    "url": "https://avangard.ru/",
+    "color": "#187543",
+    "prefixes": [
+      522224
+    ]
+  },
+  {
+    "name": "citibank",
+    "country": "ru",
+    "localTitle": "Ситибанк",
+    "engTitle": "Citibank",
+    "url": "https://www.citibank.ru/",
+    "color": "#0088cf",
+    "prefixes": [
+      419349,
+      427760,
+      427761,
+      520306,
+      527594
+    ]
+  },
+  {
+    "name": "gazprombank",
+    "country": "ru",
+    "localTitle": "Газпромбанк",
+    "engTitle": "Gazprombank",
+    "url": "http://gazprombank.ru/",
+    "color": "#00448b",
+    "prefixes": [
+      487415,
+      677585
+    ]
+  },
+  {
+    "name": "mdm",
+    "country": "ru",
+    "localTitle": "МДМ Банк",
+    "engTitle": "MDM Bank",
+    "url": "https://www.mdm.ru/",
+    "color": "#820729",
+    "prefixes": [
+      554372
+    ]
+  },
+  {
+    "name": "promsvyazbank",
+    "country": "ru",
+    "localTitle": "Промсвязьбанк",
+    "engTitle": "Promsvyazbank",
+    "url": "http://www.psbank.ru/",
+    "color": "#274193",
+    "prefixes": [
+      411791,
+      447818,
+      472345,
+      520373,
+      554759,
+      554781
+    ]
+  },
+  {
+    "name": "qiwi",
+    "country": "ru",
+    "localTitle": "Киви",
+    "engTitle": "QIWI",
+    "url": "https://qiwi.ru",
+    "color": "#ff9f00",
+    "prefixes": [
+      469395,
+      489049
+    ]
+  },
+  {
+    "name": "raiffeisen",
+    "country": "ru",
+    "localTitle": "Райффайзенбанк",
+    "engTitle": "Raiffeisenbank",
+    "url": "http://www.raiffeisen.ru/",
+    "color": "#fff300",
+    "prefixes": [
+      446917,
+      447624,
+      462729,
+      462730,
+      462758,
+      510069,
+      510070,
+      515876,
+      533594
+    ]
+  },
+  {
+    "name": "renaissance",
+    "country": "ru",
+    "localTitle": "Ренессанс Капитал",
+    "engTitle": "Renaissance Capital",
+    "url": "http://www.rencap.ru/",
+    "color": "#343434",
+    "prefixes": [
+      520905
+    ]
+  },
+  {
+    "name": "rocketbank",
+    "country": "ru",
+    "localTitle": "Рокетбанк",
+    "engTitle": "Rocketbank",
+    "url": "https://rocketbank.ru/",
+    "color": "#fb8000",
+    "prefixes": [
+      532130
+    ]
+  },
+  {
+    "name": "rosbank",
+    "country": "ru",
+    "localTitle": "Росбанк",
+    "engTitle": "Rosbank",
+    "url": "https://www.rosbank.ru/",
+    "color": "#e60028",
+    "prefixes": [
+      554761
+    ]
+  },
+  {
+    "name": "rosevrobank",
+    "country": "ru",
+    "localTitle": "РосЕвроБанк",
+    "engTitle": "RosEvro Bank",
+    "url": "http://www.rosevrobank.ru/",
+    "color": "#6c2870",
+    "prefixes": [
+      418907
+    ]
+  },
+  {
+    "name": "rsb",
+    "country": "ru",
+    "localTitle": "Банк Русский Стандарт",
+    "engTitle": "Russian Standard Bank",
+    "url": "https://www.rsb.ru/",
+    "color": "#930d2d",
+    "prefixes": [
+      510047,
+      513691,
+      542048
+    ]
+  },
+  {
+    "name": "sberbank",
+    "country": "ru",
+    "localTitle": "Сбербанк",
+    "engTitle": "Sberbank",
+    "url": "https://www.sberbank.ru",
+    "color": "#309c0b",
+    "prefixes": [
+      427466,
+      427467,
+      427468,
+      427469,
+      427470,
+      427472,
+      427475,
+      427477,
+      427601,
+      427602,
+      427606,
+      427609,
+      427610,
+      427616,
+      427620,
+      427622,
+      427630,
+      427631,
+      427637,
+      427638,
+      427640,
+      427642,
+      427644,
+      427648,
+      42765,
+      427660,
+      427663,
+      427664,
+      427667,
+      427668,
+      427669,
+      427672,
+      427680,
+      427683,
+      427684,
+      427685,
+      427686,
+      427687,
+      427688,
+      427901,
+      427916,
+      427938,
+      427940,
+      427955,
+      533669,
+      54690,
+      546910,
+      546916,
+      546917,
+      546918,
+      54693,
+      546940,
+      546942,
+      546944,
+      546945,
+      546949,
+      54695,
+      546960,
+      546962,
+      546967,
+      546969,
+      546977,
+      546999,
+      547938,
+      548401,
+      548406,
+      548438,
+      639002,
+      676196,
+      67758
+    ]
+  },
+  {
+    "name": "siab",
+    "country": "ru",
+    "localTitle": "СИАБ",
+    "engTitle": "SIAB",
+    "url": "https://siab.ru/",
+    "color": "#0f255c",
+    "prefixes": [
+      531544
+    ]
+  },
+  {
+    "name": "sovcombank",
+    "country": "ru",
+    "localTitle": "Совкомбанк",
+    "engTitle": "Sovcombank",
+    "url": "https://sovcombank.ru/",
+    "color": "#134c7c",
+    "prefixes": [
+      533595
+    ]
+  },
+  {
+    "name": "tinkoff",
+    "country": "ru",
+    "localTitle": "Тинькофф Банк",
+    "engTitle": "Tinkoff Bank",
+    "url": "https://www.tinkoff.ru/",
+    "color": "#ffdd2d",
+    "prefixes": [
+      437772,
+      437773,
+      521324,
+      548387,
+      553691
+    ]
+  },
+  {
+    "name": "trust",
+    "country": "ru",
+    "localTitle": "Траст",
+    "engTitle": "Trust",
+    "url": "http://www.trust.ru/",
+    "color": "#f8ab21",
+    "prefixes": [
+      456515,
+      554521
+    ]
+  },
+  {
+    "name": "uniastrumbank",
+    "country": "ru",
+    "localTitle": "Юниаструм Банк",
+    "engTitle": "Uniastrum Bank",
+    "url": "https://www.uniastrum.ru",
+    "color": "#00718f",
+    "prefixes": [
+      403330
+    ]
+  },
+  {
+    "name": "unicreditbank",
+    "country": "ru",
+    "localTitle": "ЮниКредит Банк",
+    "engTitle": "UniCredit Bank",
+    "url": "https://www.unicreditbank.ru/",
+    "color": "#e3001a",
+    "prefixes": [
+      485608,
+      489042,
+      490855,
+      531344
+    ]
+  },
+  {
+    "name": "uralsibbank",
+    "country": "ru",
+    "localTitle": "УралСиб Банк",
+    "engTitle": "UralSib Bank",
+    "url": "https://www.bankuralsib.ru/",
+    "color": "#53b548",
+    "prefixes": [
+      424204,
+      440666
+    ]
+  },
+  {
+    "name": "vozrozhdenie",
+    "country": "ru",
+    "localTitle": "Возрождение",
+    "engTitle": "Vozrozhdenie",
+    "url": "http://www.vbank.ru/",
+    "color": "#224f84",
+    "prefixes": [
+      526469
+    ]
+  },
+  {
+    "name": "vpb",
+    "country": "ru",
+    "localTitle": "ВПБ",
+    "engTitle": "VPB",
+    "url": "https://www.vpb.ru",
+    "color": "#0071b9",
+    "prefixes": [
+      534134
+    ]
+  },
+  {
+    "name": "vtb24",
+    "country": "ru",
+    "localTitle": "ВТБ 24",
+    "engTitle": "VTB 24",
+    "url": "http://www.vtb24.ru",
+    "color": "#00498f",
+    "prefixes": [
+      418869,
+      427229,
+      447520,
+      46223,
+      465206,
+      471487,
+      522598,
+      527883,
+      535082,
+      542033,
+      554386,
+      554393
+    ]
+  },
+  {
+    "name": "yandex",
+    "country": "ru",
+    "localTitle": "Яндекс.Деньги",
+    "engTitle": "Yandex Money",
+    "url": "https://money.yandex.ru/",
+    "color": "#000000",
+    "prefixes": [
+      510621,
+      518901
+    ]
+  }
+]

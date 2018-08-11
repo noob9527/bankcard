@@ -1,0 +1,27 @@
+{
+  "name": "ceb",
+  "country": "cn",
+  "localTitle": "中国光大银行",
+  "engTitle": "China Everbright Bank",
+  "url": "http://www.cebbank.cn/",
+  "color": "#691585",
+  "prefixes": [
+    356837,
+    356838,
+    356839,
+    356840,
+    406252,
+    406254,
+    425862,
+    481699,
+    486497,
+    543159,
+    622161,
+    622650,
+    622655,
+    622658,
+    628201,
+    628202
+  ],
+  "bankCode": "CEB"
+}

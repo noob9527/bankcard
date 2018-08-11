@@ -1,0 +1,20 @@
+{
+  "name": "suntrust",
+  "country": "us",
+  "localTitle": "SunTrust",
+  "engTitle": "SunTrust",
+  "url": "https://www.suntrust.com",
+  "color": "#ef7622",
+  "prefixes": [
+    442505,
+    451805,
+    486560,
+    519667,
+    519669,
+    546540,
+    552393,
+    553693,
+    553694,
+    557621
+  ]
+}

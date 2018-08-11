@@ -1,0 +1,15 @@
+{
+  "name": "credit-agricole",
+  "country": "ua",
+  "localTitle": "Креді Агріколь Банк (Україна)",
+  "engTitle": "Credit Agricole (Ukraine)",
+  "url": "https://credit-agricole.ua/",
+  "color": "#258b92",
+  "prefixes": [
+    411948,
+    512439,
+    519745,
+    520662,
+    525822
+  ]
+}

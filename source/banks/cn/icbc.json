@@ -1,0 +1,20 @@
+{
+  "name": "icbc",
+  "country": "cn",
+  "localTitle": "中国工商银行",
+  "engTitle": "Industrial and Commercial Bank of China",
+  "url": "http://www.icbc.com.cn",
+  "color": "#c90000",
+  "prefixes": [
+    427020,
+    427030,
+    530990,
+    622200,
+    622210,
+    622215,
+    622230,
+    622235,
+    955880
+  ],
+  "bankCode": "ICBC"
+}

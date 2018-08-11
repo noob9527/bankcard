@@ -1,0 +1,24 @@
+[
+  {
+    "name": "jyskebank",
+    "country": "dk",
+    "localTitle": "Jyske Bank",
+    "engTitle": "Jyske Bank",
+    "url": "https://www.jyskebank.dk/",
+    "color": "#005231",
+    "prefixes": [
+      457172
+    ]
+  },
+  {
+    "name": "nykredit",
+    "country": "dk",
+    "localTitle": "Nykredit",
+    "engTitle": "Nykredit",
+    "url": "http://nykredit.dk/",
+    "color": "#10137c",
+    "prefixes": [
+      457181
+    ]
+  }
+]

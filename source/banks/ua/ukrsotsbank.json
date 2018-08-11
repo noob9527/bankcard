@@ -1,0 +1,15 @@
+{
+  "name": "ukrsotsbank",
+  "country": "ua",
+  "localTitle": "Укрсоцбанк",
+  "engTitle": "Ukrsotsbank",
+  "url": "https://ukrsotsbank.com/",
+  "color": "#a50931",
+  "prefixes": [
+    402191,
+    417284,
+    431153,
+    476009,
+    487412
+  ]
+}

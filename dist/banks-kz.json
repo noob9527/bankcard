@@ -1,0 +1,37 @@
+[
+  {
+    "name": "bcc",
+    "country": "kz",
+    "localTitle": "Банк ЦентрКредит",
+    "engTitle": "Bank CenterCredit",
+    "url": "https://www.bcc.kz/",
+    "color": "#008047",
+    "prefixes": [
+      466720
+    ]
+  },
+  {
+    "name": "kazkom",
+    "country": "kz",
+    "localTitle": "Казкоммерцбанк",
+    "engTitle": "Kazkommertsbank",
+    "url": "http://kkb.kz/",
+    "color": "#008fb4",
+    "prefixes": [
+      400303,
+      440564,
+      557834
+    ]
+  },
+  {
+    "name": "sberbank",
+    "country": "kz",
+    "localTitle": "Сбербанк",
+    "engTitle": "Sberbank",
+    "url": "https://www.sberbank.kz",
+    "color": "#309c0b",
+    "prefixes": [
+      426344
+    ]
+  }
+]

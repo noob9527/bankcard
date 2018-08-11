@@ -1,0 +1,14 @@
+{
+  "name": "boco",
+  "country": "cn",
+  "localTitle": "交通银行",
+  "engTitle": "Bank of Communications",
+  "url": "http://www.bankcomm.com",
+  "color": "#023978",
+  "prefixes": [
+    458123,
+    521899,
+    622260
+  ],
+  "bankCode": "BOCO"
+}

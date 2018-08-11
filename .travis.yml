@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+  - stable
+language: java
+java:
+  - oraclejdk8
+
+script: make test

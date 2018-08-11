@@ -1,0 +1,11 @@
+{
+  "name": "scotiabank",
+  "country": "ca",
+  "localTitle": "Scotiabank",
+  "engTitle": "Scotiabank",
+  "url": "http://www.scotiabank.com/",
+  "color": "#d81e05",
+  "prefixes": [
+    453600
+  ]
+}

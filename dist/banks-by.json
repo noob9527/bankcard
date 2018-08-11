@@ -1,0 +1,302 @@
+[
+  {
+    "name": "absolutbank",
+    "country": "by",
+    "localTitle": "Абсолютбанк",
+    "engTitle": "Absolutbank",
+    "url": "http://www.absolutbank.by",
+    "color": "#b72930",
+    "prefixes": [
+      458563
+    ]
+  },
+  {
+    "name": "alfabank",
+    "country": "by",
+    "localTitle": "Альфабанк",
+    "engTitle": "Alfabank",
+    "url": "https://www.alfabank.by/",
+    "color": "#ee3124",
+    "prefixes": [
+      437350,
+      458520,
+      458521,
+      458522,
+      458523
+    ]
+  },
+  {
+    "name": "belapb",
+    "country": "by",
+    "localTitle": "Белагропромбанк",
+    "engTitle": "Belagroprombank",
+    "url": "http://www.belapb.by",
+    "color": "#fab606",
+    "prefixes": [
+      432036,
+      432037,
+      432038,
+      432039,
+      432040,
+      432041,
+      520195,
+      522208,
+      532308,
+      547232
+    ]
+  },
+  {
+    "name": "belarusbank",
+    "country": "by",
+    "localTitle": "Беларусбанк",
+    "engTitle": "Belarusbank",
+    "url": "http://www.belarusbank.by",
+    "color": "#127d49",
+    "prefixes": [
+      401803,
+      409087,
+      424641,
+      425519,
+      425520,
+      425521,
+      510035,
+      543044,
+      543634,
+      544598,
+      544650,
+      547087,
+      547091,
+      547232,
+      547504,
+      557075,
+      557076
+    ]
+  },
+  {
+    "name": "belaruskynarodny",
+    "country": "by",
+    "localTitle": "Белорусский народный банк",
+    "engTitle": "Beloruskii Narodny Bank",
+    "url": "http://www.bnb.by",
+    "color": "#f89828",
+    "prefixes": [
+      450040,
+      450041,
+      450042,
+      489062
+    ]
+  },
+  {
+    "name": "belgazprom",
+    "country": "by",
+    "localTitle": "Белгазпромбанк",
+    "engTitle": "Belgazprombank",
+    "url": "http://www.belgazprombank.by",
+    "color": "#0079c2",
+    "prefixes": [
+      428620,
+      428621,
+      428622,
+      428623,
+      428624,
+      518597,
+      518707,
+      529922
+    ]
+  },
+  {
+    "name": "belinvestbank",
+    "country": "by",
+    "localTitle": "Белинвестбанк",
+    "engTitle": "Belinvestbank",
+    "url": "http://www.belinvestbank.by/",
+    "color": "#009881",
+    "prefixes": [
+      401346,
+      434484,
+      434485,
+      434486,
+      434487,
+      458291,
+      547691,
+      557749,
+      557884,
+      557885
+    ]
+  },
+  {
+    "name": "belswissbank",
+    "country": "by",
+    "localTitle": "БелСвиссБанк",
+    "engTitle": "BelSwiss",
+    "url": "https://www.bsb.by/",
+    "color": "#ee1d23",
+    "prefixes": [
+      410745,
+      410746
+    ]
+  },
+  {
+    "name": "belveb",
+    "country": "by",
+    "localTitle": "Банк БелВЭБ",
+    "engTitle": "BelVEB Bank",
+    "url": "http://www.bveb.by/",
+    "color": "#f37637",
+    "prefixes": [
+      414088,
+      414297,
+      414298,
+      422887,
+      447514,
+      447515,
+      470469,
+      499835,
+      520658,
+      537000,
+      544206,
+      544578,
+      544650,
+      547747,
+      548475
+    ]
+  },
+  {
+    "name": "bpssberbank",
+    "country": "by",
+    "localTitle": "БПС-Сбербанк",
+    "engTitle": "BPS-Sberbank",
+    "url": "http://www.bps-sberbank.by/",
+    "color": "#1b991b",
+    "prefixes": [
+      413856,
+      413857,
+      431836,
+      431837,
+      431838,
+      437449,
+      540234,
+      544454,
+      558682
+    ]
+  },
+  {
+    "name": "deltabank",
+    "country": "by",
+    "localTitle": "Дельтабанк",
+    "engTitle": "Delta Bank",
+    "url": "http://deltabank.by/",
+    "color": "#d81e05",
+    "defunct": true,
+    "prefixes": [
+      467939,
+      467940,
+      467941
+    ]
+  },
+  {
+    "name": "homecredit",
+    "country": "by",
+    "localTitle": "Хоум Кредит Банк",
+    "engTitle": "Home Credit Bank",
+    "url": "http://homecredit.by/",
+    "color": "#e03a3e",
+    "prefixes": [
+      510415,
+      510428,
+      528065
+    ]
+  },
+  {
+    "name": "moskvaminsk",
+    "country": "by",
+    "localTitle": "Банк Москва-Минск",
+    "engTitle": "Bank Moskva-Minsk",
+    "url": "http://www.mmbank.by/",
+    "color": "#f2000d",
+    "prefixes": [
+      446505
+    ]
+  },
+  {
+    "name": "mtb",
+    "country": "by",
+    "localTitle": "МТБанк",
+    "engTitle": "MTBank",
+    "url": "http://www.mtbank.by",
+    "color": "#005aab",
+    "prefixes": [
+      417753,
+      417754,
+      417755,
+      464990
+    ]
+  },
+  {
+    "name": "paritetbank",
+    "country": "by",
+    "localTitle": "Паритетбанк",
+    "engTitle": "Paritetbank",
+    "url": "http://www.paritetbank.by/",
+    "color": "#0360a7",
+    "prefixes": [
+      416676,
+      416677,
+      427870,
+      429737,
+      437391,
+      459056
+    ]
+  },
+  {
+    "name": "priorbank",
+    "country": "by",
+    "localTitle": "Приорбанк",
+    "engTitle": "Priorbank",
+    "url": "http://www.priorbank.by",
+    "color": "#ffff00",
+    "prefixes": [
+      413059,
+      416064,
+      417770,
+      437458,
+      445987,
+      458285,
+      471326,
+      472950,
+      480949,
+      491698,
+      542645,
+      548952,
+      558349
+    ]
+  },
+  {
+    "name": "trustbank",
+    "country": "by",
+    "localTitle": "Трастбанк",
+    "engTitle": "Trustbank",
+    "url": "http://www.trustbank.by/",
+    "color": "#a81429",
+    "prefixes": [
+      411856,
+      432231,
+      432232
+    ]
+  },
+  {
+    "name": "vtb",
+    "country": "by",
+    "localTitle": "ВТБ (Беларусь)",
+    "engTitle": "VTB (Belarus)",
+    "url": "http://www.vtb-bank.by",
+    "color": "#002e77",
+    "prefixes": [
+      445451,
+      445452,
+      445453,
+      445454,
+      471346
+    ]
+  }
+]

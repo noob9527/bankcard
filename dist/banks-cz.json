@@ -1,0 +1,36 @@
+[
+  {
+    "name": "airbank",
+    "country": "cz",
+    "localTitle": "Airbank",
+    "engTitle": "Airbank",
+    "url": "https://airbank.cz",
+    "color": "#99cc33",
+    "prefixes": [
+      516844
+    ]
+  },
+  {
+    "name": "csob",
+    "country": "cz",
+    "localTitle": "ČSOB",
+    "engTitle": "ČSOB",
+    "url": "https://www.csob.cz/",
+    "color": "#0099cc",
+    "prefixes": [
+      440753,
+      543463
+    ]
+  },
+  {
+    "name": "fio-banka",
+    "country": "cz",
+    "localTitle": "Fio banka",
+    "engTitle": "Fio banka",
+    "url": "https://www.fio.cz/",
+    "color": "#00458a",
+    "prefixes": [
+      510658
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "creditmutuel",
+  "country": "fr",
+  "localTitle": "Credit Mutuel",
+  "engTitle": "Credit Mutuel",
+  "url": "https://www.creditmutuel.com/",
+  "color": "#11519b",
+  "prefixes": [
+    513616,
+    513742
+  ]
+}

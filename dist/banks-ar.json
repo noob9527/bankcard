@@ -1,0 +1,47 @@
+[
+  {
+    "name": "galicia",
+    "country": "ar",
+    "localTitle": "Banco Galicia/Naranja",
+    "engTitle": "Galicia Bank / Naranja",
+    "url": "http://www.bancogalicia.com/",
+    "color": "#ff6319",
+    "prefixes": [
+      402918
+    ]
+  },
+  {
+    "name": "hsbc",
+    "country": "ar",
+    "localTitle": "HSBC",
+    "engTitle": "HSBC",
+    "url": "https://www.hsbc.com.ar/es/",
+    "color": "#dd1f26",
+    "prefixes": [
+      450910,
+      525489
+    ]
+  },
+  {
+    "name": "macro",
+    "country": "ar",
+    "localTitle": "Banco Macro",
+    "engTitle": "Macro Bank",
+    "url": "https://www.macro.com.ar",
+    "color": "#0c75a5",
+    "prefixes": [
+      451764
+    ]
+  },
+  {
+    "name": "santanderrio",
+    "country": "ar",
+    "localTitle": "Santander Rio",
+    "engTitle": "Santander Rio",
+    "url": "http://santanderrio.com.ar/",
+    "color": "#ef3340",
+    "prefixes": [
+      405071
+    ]
+  }
+]

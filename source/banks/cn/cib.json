@@ -1,0 +1,22 @@
+{
+  "name": "cib",
+  "country": "cn",
+  "localTitle": "兴业银行",
+  "engTitle": "Industrial Bank Co. Ltd.",
+  "url": "http://www.cib.com.cn/",
+  "color": "#004097",
+  "prefixes": [
+    451289,
+    451290,
+    486493,
+    486494,
+    486861,
+    523036,
+    524070,
+    527414,
+    622901,
+    622902,
+    622922
+  ],
+  "bankCode": "CIB"
+}

@@ -1,0 +1,4 @@
+before_install:
+   - cd ./libs/kotlin
+install:
+   - ./gradlew install -x test

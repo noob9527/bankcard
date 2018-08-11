@@ -1,0 +1,19 @@
+{
+  "name": "ukrsibbank",
+  "country": "ua",
+  "localTitle": "УКРСИББАНК",
+  "engTitle": "Ukrsibbank",
+  "url": "https://ukrsibbank.com/",
+  "color": "#04703d",
+  "prefixes": [
+    407361,
+    407368,
+    417232,
+    427830,
+    434343,
+    516930,
+    529578,
+    533037,
+    535129
+  ]
+}

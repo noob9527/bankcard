@@ -1,0 +1,35 @@
+[
+  {
+    "name": "scotiabank",
+    "country": "ca",
+    "localTitle": "Scotiabank",
+    "engTitle": "Scotiabank",
+    "url": "http://www.scotiabank.com/",
+    "color": "#d81e05",
+    "prefixes": [
+      453600
+    ]
+  },
+  {
+    "name": "tangerine",
+    "country": "ca",
+    "localTitle": "Tangerine",
+    "engTitle": "Tangerine",
+    "url": "https://www.tangerine.ca/",
+    "color": "#fa823c",
+    "prefixes": [
+      601725
+    ]
+  },
+  {
+    "name": "tdcanadatrust",
+    "country": "ca",
+    "localTitle": "TD Canada Trust",
+    "engTitle": "TD Canada Trust",
+    "url": "https://www.tdcanadatrust.com",
+    "color": "#20b14a",
+    "prefixes": [
+      472409
+    ]
+  }
+]

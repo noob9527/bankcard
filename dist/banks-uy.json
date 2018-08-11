@@ -1,0 +1,26 @@
+[
+  {
+    "name": "brou",
+    "country": "uy",
+    "localTitle": "Banco de la República Oriental del Uruguay",
+    "engTitle": "Bank of the Oriental Republic of Uruguay",
+    "url": "http://www.brou.com.uy/",
+    "color": "#024181",
+    "prefixes": [
+      421821,
+      494016
+    ]
+  },
+  {
+    "name": "santander",
+    "country": "uy",
+    "localTitle": "Santander",
+    "engTitle": "Santander",
+    "url": "http://www.santander.com.uy/",
+    "color": "#ff0000",
+    "prefixes": [
+      534263,
+      545703
+    ]
+  }
+]
